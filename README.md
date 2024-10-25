@@ -1,5 +1,3 @@
-# goturbenigittiginyerebutonu
-Kendinizi her zaman “şanslı” hissetmiyor musunuz? Artık zorunda değilsiniz! Bu uzantı ile o nadiren kullandığımız “Kendimi Şanslı Hissediyorum” butonu artık daha samimi ve Türkçeye uygun bir hale geliyor. Google’ın klasik butonu, yerelleştirildi ve “Götür beni gittiğin yere.” ifadesiyle adeta Türk oldu!
 # Götür Beni Gittiğin Yere - Google Butonu Yeniden Tanımlandı
 
 ## Hakkında
@@ -11,7 +9,7 @@ Bu uzantı, Google'ın klasik "Kendimi Şanslı Hissediyorum" butonunu daha sami
 - Daha samimi ve yerel bir kullanıcı deneyimi sunar.
 
 ## Kurulum
-1. [Chrome Web Store](https://chrome.google.com/webstore/](https://chromewebstore.google.com/detail/mpiobenbckgfedbchebehnbdgafeejda/preview?hl=tr&authuser=0) üzerinden uzantıyı indirin ve tarayıcınıza ekleyin.
+1. [Chrome Web Store](https://chromewebstore.google.com/detail/mpiobenbckgfedbchebehnbdgafeejda/preview?hl=tr&authuser=0) üzerinden uzantıyı indirin ve tarayıcınıza ekleyin.
 2. Uzantıyı yükledikten sonra Google ana sayfasına gidin.
 3. Artık klasik butonun yerinde **"Götür beni gittiğin yere."** yazdığını göreceksiniz!
 
