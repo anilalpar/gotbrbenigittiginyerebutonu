@@ -11,7 +11,7 @@ Bu uzantı, Google'ın klasik "Kendimi Şanslı Hissediyorum" butonunu daha sami
 - Daha samimi ve yerel bir kullanıcı deneyimi sunar.
 
 ## Kurulum
-1. [Chrome Web Store](https://chrome.google.com/webstore/) üzerinden uzantıyı indirin ve tarayıcınıza ekleyin.
+1. [Chrome Web Store](https://chrome.google.com/webstore/](https://chromewebstore.google.com/detail/mpiobenbckgfedbchebehnbdgafeejda/preview?hl=tr&authuser=0) üzerinden uzantıyı indirin ve tarayıcınıza ekleyin.
 2. Uzantıyı yükledikten sonra Google ana sayfasına gidin.
 3. Artık klasik butonun yerinde **"Götür beni gittiğin yere."** yazdığını göreceksiniz!
 
