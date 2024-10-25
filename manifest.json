@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Google Götür Beni Gittiği Yere Butonu",
+  "version": "1.0",
+  "description": "Kendinizi her zaman “şanslı” hissetmiyor musunuz? Artık zorunda değilsiniz! Bu uzantı ile o nadiren kullandığımız “Kendimi Şanslı Hissediyorum” butonu artık daha samimi ve Türkçeye uygun bir hale geliyor. Google’ın klasik butonu, yerelleştirildi ve “Götür beni gittiğin yere.” ifadesiyle adeta Türk oldu! İster eğlence, ister yenilik arayın, Google deneyiminize biraz daha keyif katmaya hazır olun.",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["activeTab"]
+}
